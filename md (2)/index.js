@@ -1,6 +1,6 @@
 /**
-   * Create By SHADOW OFFICIAL
-   * Contact Me on 923271054080
+   * Create By DEVIL OFFICIAL
+   * Contact Me on 917384707086
 */
 
 const fs = require('fs');
@@ -82,7 +82,7 @@ const initializeBot = async () => {
 
 function launchBot() {
     console.clear();
-    console.log(chalk.green('🚀 Starting 𝐒ＨＡＤＯＷ system...\n'));
+    console.log(chalk.green('🚀 Starting D E V I L system...\n'));
 
     let telegramLoaded = false;
     let whatsappLoaded = false;
@@ -94,7 +94,7 @@ function launchBot() {
             console.log(chalk.blue('📱 Loading Telegram pairing system...'));
             require('./bot');
             telegramLoaded = true;
-            console.log(chalk.green('✅𝐒ＨＡＤＯＷ bot loaded successfully!'));
+            console.log(chalk.green('✅DEVIL bot loaded successfully!'));
         } catch (error) {
             console.log(chalk.red('❌ Failed to load Telegram bot (bot.js):'));
             console.log(chalk.red('   Error:', error.message));
@@ -136,14 +136,14 @@ function launchBot() {
     console.log(chalk.cyan('\n═══════════════════════════════════════════════'));
     console.log(chalk.bold.white('𝐒ＨＡＤＯＷ BOT INITIALIZATION SUMMARY          '));
     console.log(chalk.cyan('═══════════════════════════════════════════════'));
-    console.log(telegramLoaded ? chalk.green('✅𝐒ＨＡＤＯＷ тɛℓɛɢяαм вσт: Active') : chalk.red('❌𝐒ＨＡＤＯＷ тɛℓɛɢяαм вσт : Inactive'));
+    console.log(telegramLoaded ? chalk.green('✅𝐒ＨＡＤＯＷ тɛℓɛɢяαм вσт: Active') : chalk.red('❌D E V I L тɛℓɛɢяαм вσт : Inactive'));
     console.log(whatsappLoaded ? chalk.green('✅ WhatsApp Commands: Active') : chalk.red('❌ WhatsApp Commands: Inactive'));
     console.log(chalk.cyan('═══════════════════════════════════════════════\n'));
 
     if (!telegramLoaded && !whatsappLoaded) {
         console.log(chalk.red('⚠️  Warning: No bot systems loaded! Check your files.\n'));
     } else {
-        console.log(chalk.green('✅ 𝐒ＨＡＤＯＷ system is ready and running!\n'));
+        console.log(chalk.green('✅ D E V I L system is ready and running!\n'));
     }
 
     // Error handlers
