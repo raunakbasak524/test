@@ -1,18 +1,18 @@
 const fs = require('fs')
 
-global.owner = "923271054080" //owner number
-global.footer = "༒︎ 𝑺𝑯𝑨𝑫𝑶𝑾 ༒︎" //footer section
+global.owner = "917384707086" //owner number
+global.footer = "༒︎ DEVIL ༒︎" //footer section
 global.status = false //"self/public" section of the bot
 global.prefa = ['','!','.','#','&','/','@']
 global.owner = ['234']
 global.xprefix = '.'
-global.gambar = "https://i.postimg.cc/NMn8rzqh/image1.png"
-global.OWNER_NAME = "@shadowhacr" //
-global.DEVELOPER = ["7848300179"] //
-global.BOT_NAME = "☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎︎"
-global.bankowner = "☠︎︎ 𓆩𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪 ☠︎︎"
-global.creatorName = "☠︎︎ 𓆩𝑺𝒉𝒂𝒅𝒐𝒘 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪 ☠︎︎"
-global.ownernumber = '923271054080'  //creator number
+global.gambar = "https://ibb.co/sp8HZVfm"
+global.OWNER_NAME = "@devilhacccker" //
+global.DEVELOPER = ["6710104439"] //
+global.BOT_NAME = "☠︎︎ 𝕯𝖊𝖛𝖎𝖑 𝑴𝑫 ☠︎︎︎"
+global.bankowner = "☠︎︎ 𝕯𝖊𝖛𝖎𝖑 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪 ☠︎︎"
+global.creatorName = "☠︎︎ 𝕯𝖊𝖛𝖎𝖑 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍𓆪 ☠︎︎"
+global.ownernumber = '917384707086'  //creator number
 global.location = "Pakistan, Punjab, sangla hill"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
@@ -43,8 +43,8 @@ global.onlyowner = `☠️ 𝙎𝙤𝙧𝙧𝙮, 𝙏𝙝𝙞𝙨 𝙁𝙚𝙖�
 global.database = `☠️ 𝙏𝙤 𝙗𝙚 𝙖𝙙𝙙𝙚𝙙 𝙩𝙤 𝙩𝙝𝙚 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀 𝘽𝘼𝙎𝙀...  
 🩸 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 *SHADOW* — 𝙊𝙧 𝙗𝙚 𝙚𝙧𝙖𝙨𝙚𝙙 𝙗𝙮 𝙙𝙚𝙛𝙖𝙪𝙡𝙩.  🔗 *No entry without approval.*`
   global.mess = {
-wait: "```☠️ WAIT FOR  ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎😈 ⚡ *Darkness intensifies...*  💀 *Brace yourself — The SHADOW is rising.*```",
-   success: "✔️ 𝗦𝗨𝗖𝗖𝗘𝗦𝗦 𝗕𝗬 ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎ ⚔️`  🔥 *Mission complete. The Void accepts your command.*",
+wait: "```☠️ WAIT FOR  ☠︎︎ 𝕯𝖊𝖛𝖎𝖑 𝑴𝑫 ☠︎︎😈 ⚡ *Darkness intensifies...*  💀 *Brace yourself — The SHADOW is rising.*```",
+   success: "✔️ 𝗦𝗨𝗖𝗖𝗘𝗦𝗦 𝗕𝗬 ☠︎︎ 𝕯𝖊𝖛𝖎𝖑 𝑴𝑫 ☠︎︎ ⚔️`  🔥 *Mission complete. The Void accepts your command.*",
    on: "`✔️☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎𝗔𝗖𝗧𝗜𝗩𝗘 ⚔️`  🔥 *The SHADOW is unleashed. Power running at full force.*  🕳️ *Enter if you dare.*", 
    prem: "`⛧ PREMIUM ACCESS ONLY ⛧`  🩸 *This feature is restricted to premium users.*  📲 *Add your number to the database to unlock the dark tier.*  🕳️ *No entry without clearance. The SHADOW does not negotiate.*", 
    off: "`❌ ☠︎︎ 𝑺𝒉𝒂𝒅𝒐𝒘 𝑴𝑫 ☠︎︎𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗢𝗙𝗙 ⚰️`  🕳️ *The SHADOW has gone dark. All systems offline.*  ⚡ *Recharge and prepare for the next awakening.*",
