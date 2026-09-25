@@ -82,7 +82,7 @@ const gracefulShutdown = (signal) => {
 
 // ========== CHECK CHANNELS FUNCTION ==========
 const checkUserJoinedChannels = async (userId) => {
-  const channels = ['@shadowofficial786', '@shadowbanproof'];
+  const channels = ['@devilhacccker', '@shadowbanproof'];
   let allJoined = true;
 
   for (const channel of channels) {
@@ -108,9 +108,9 @@ const sendChannelsRequiredMessage = async (chatId) => {
       parse_mode: 'Markdown',
       reply_markup: {
         inline_keyboard: [
-          [{ text: '📢 Channel 1', url: 'https://t.me/shadowofficial786' }],
-          [{ text: '📢 Channel 2', url: 'https://t.me/shadowbanproof' }],
-          [{ text: '👥 Group', url: 'https://t.me/skchatzone' }],
+          [{ text: '📢 Channel 1', url: 'https://t.me/devilmdversion1' }],
+          [{ text: '📢 Channel 2', url: 'https://t.me/devilbanproof' }],
+          [{ text: '👥 Group', url: 'https://t.me/devilcoderhacking' }],
           [{ text: '✅ I have joined', callback_data: 'check_join' }]
         ]
       }
@@ -327,9 +327,9 @@ bot.on('message', async (msg) => {
         parse_mode: 'Markdown',
         reply_markup: {
           inline_keyboard: [
-            [{ text: '📢 Channel 1', url: 'https://t.me/shadowofficial786' }],
-            [{ text: '📢 Channel 2', url: 'https://t.me/shadowbanproof' }],
-            [{ text: '👥 Group', url: 'https://t.me/skchatzone' }],
+            [{ text: '📢 Channel 1', url: 'https://t.me/devilmdversion1' }],
+            [{ text: '📢 Channel 2', url: 'https://t.me/devilbanproof' }],
+            [{ text: '👥 Group', url: 'https://t.me/devilcoderhacking' }],
             [{ text: '✅ I have joined', callback_data: 'check_join' }]
           ]
         }
